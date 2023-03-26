@@ -14,7 +14,7 @@ Hello
 </p>
 
 ===============================================================================
--->
+
 # Hi, I'm Habuu 👋
 
 I'm a passionate software engineer with a keen interest in creating awesome applications that make people's lives easier. I love to learn and explore new technologies to stay up-to-date with the latest trends in software development.
@@ -25,8 +25,8 @@ I'm a passionate software engineer with a keen interest in creating awesome appl
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agunghabu&layout=compact&hide_border=true&theme=onedark&count_private=true" alt="Habu's github stats" height=180/>
 </div>
 
-<!--## 🔭 My Github Stats
-![Habuu's github stats](https://github-readme-stats.vercel.app/api?username=agunghabu&show_icons=true&hide_border=true&count_private=true&border_color=e29e1f&theme=onedark&count_private=true&include_all_commits=true)-->
+## 🔭 My Github Stats
+![Habuu's github stats](https://github-readme-stats.vercel.app/api?username=agunghabu&show_icons=true&hide_border=true&count_private=true&border_color=e29e1f&theme=onedark&count_private=true&include_all_commits=true)
 
 ## <div align=center>🛠️ My Tech Stack</div>
 <p align="center">
@@ -37,14 +37,14 @@ I'm a passionate software engineer with a keen interest in creating awesome appl
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow"/> &nbsp &nbsp &nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" height=44/>
 </p>
-<!--<p align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/-Google_Collab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" alt="Google Collab">
   <img src="https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
   <img src="https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" alt="Anaconda">
   <img src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Tensorflow">
   <img src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras">
-</p>-->
+</p>
 
 ## <div align=center>🚀 My Projects</div>
 <table align=center>
@@ -99,3 +99,4 @@ I'm a passionate software engineer with a keen interest in creating awesome appl
   <a href=https://github.com/agunghabu/static-web> <img src="https://github-readme-stats.vercel.app/api/pin/?username=agunghabu&repo=static-web&border_color=e4bf7a&theme=onedark" alt="Habu's github stats"/> </a> &nbsp &nbsp &nbsp 
   <a href=https://github.com/agunghabu/Flutter-Task> <img src="https://github-readme-stats.vercel.app/api/pin/?username=agunghabu&repo=Flutter-Task&border_color=e4bf7a&theme=onedark" alt="Habu's github stats"/> </a>
 </div>
+-->
