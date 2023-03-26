@@ -25,4 +25,8 @@ Hello
 <a href="https://github.com/agunghabu/Flutter-Task">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agunghabu&repo=Flutter-Task&theme=buefy" />
 </a>
+
+<a href="#macropower-title">
+  <img src="https://raw.githubusercontent.com/agunghabu/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+</a>
 -->
