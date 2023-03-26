@@ -16,11 +16,11 @@
 ## <div align=center>🛠️ My Tech Stack</div>
 <p align="center">
   <a href=https://www.python.org><img src="https://github.com/agunghabu/agunghabu/blob/main/Python.svg" alt="Python" height=120/></a> &nbsp
-  <a href=https://colab.research.google.com><img src="https://github.com/agunghabu/agunghabu/blob/main/Colab.svg" alt="Google Colab" height=120/></a> &nbsp
   <a href=https://jupyter.org><img src="https://github.com/agunghabu/agunghabu/blob/main/Jupyter.svg" alt="Jupyter Notebook" height=120/></a> &nbsp
   <a href=https://www.anaconda.com><img src="https://github.com/agunghabu/agunghabu/blob/main/Anaconda.svg" alt="Anaconda" height=120/></a> &nbsp
   <a href=https://www.tensorflow.org><img src="https://github.com/agunghabu/agunghabu/blob/main/Tensorflow.svg" alt="TensorFlow" height=120/></a> &nbsp
   <a href=https://keras.io><img src="https://github.com/agunghabu/agunghabu/blob/main/Keras.svg" alt="Keras" height=120/></a> &nbsp
+  <a href=https://colab.research.google.com><img src="https://github.com/agunghabu/agunghabu/blob/main/Colab.svg" alt="Google Colab" height=120/></a> &nbsp
 </p>
 <!--<p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
