@@ -31,7 +31,7 @@ Hello
 I'm a passionate software engineer with a keen interest in creating awesome applications that make people's lives easier. I love to learn and explore new technologies to stay up-to-date with the latest trends in software development.
 
 ## <div align=center>🎯 My Github Stats</div>
-<div align=center>
+<div>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=agunghabu&theme=onedark&hide_border=true" alt="Habu's github stats" height=200/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agunghabu&layout=compact&hide_border=true&theme=onedark&count_private=true" alt="Habu's github stats" height=200/>
 </div>
