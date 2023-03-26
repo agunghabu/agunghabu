@@ -32,8 +32,8 @@ I'm a passionate software engineer with a keen interest in creating awesome appl
 
 ## <div align=center>🎯 My Github Stats</div>
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=agunghabu&theme=onedark&hide_border=true" alt="Habu's github stats" height=200/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agunghabu&layout=compact&hide_border=true&theme=onedark&count_private=true" alt="Habu's github stats" height=200/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=agunghabu&theme=onedark&hide_border=true" alt="Habu's github stats" height=180/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agunghabu&layout=compact&hide_border=true&theme=onedark&count_private=true" alt="Habu's github stats" height=180/>
 </div>
 
 <!--## 🔭 My Github Stats
