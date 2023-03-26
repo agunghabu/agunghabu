@@ -42,7 +42,6 @@ I'm a passionate software engineer with a keen interest in creating awesome appl
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agunghabu&layout=compact&hide_border=true&theme=onedark&count_private=true)
 
 ## 🛠️ My Tech Stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/-Google_Collab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" alt="Google Collab">
@@ -94,7 +93,7 @@ I'm a passionate software engineer with a keen interest in creating awesome appl
         </tr>
     </tbody>
 </table>
--->
+
 ## 🏆 My Top Repositories / ❤️ My Favorite Repositories
 <div>
   <a href=https://github.com/agunghabu/static-web> <img src="https://github-readme-stats.vercel.app/api/pin/?username=agunghabu&repo=static-web&border_color=e4bf7a&theme=onedark" alt="Habu's github stats"/> </a> &nbsp &nbsp &nbsp 
@@ -105,3 +104,4 @@ I'm a passionate software engineer with a keen interest in creating awesome appl
   <a href=https://github.com/agunghabu/static-web> <img src="https://github-readme-stats.vercel.app/api/pin/?username=agunghabu&repo=static-web&border_color=e4bf7a&theme=onedark" alt="Habu's github stats"/> </a> &nbsp &nbsp &nbsp 
   <a href=https://github.com/agunghabu/Flutter-Task> <img src="https://github-readme-stats.vercel.app/api/pin/?username=agunghabu&repo=Flutter-Task&border_color=e4bf7a&theme=onedark" alt="Habu's github stats"/> </a>
 </div>
+-->
