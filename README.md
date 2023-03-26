@@ -36,12 +36,10 @@ Hello
 I'm a passionate software engineer with a keen interest in creating awesome applications that make people's lives easier. I love to learn and explore new technologies to stay up-to-date with the latest trends in software development.
 
 ## 🔭 My Github Stats
-
-![Habuu's github stats](https://github-readme-stats.vercel.app/api?username=agunghabu&show_icons=true&hide_border=true&count_private=true&theme=dracula)
+![Habuu's github stats](https://github-readme-stats.vercel.app/api?username=agunghabu&show_icons=true&hide_border=true&count_private=true&border_color=e29e1f&theme=onedark&count_private=true&include_all_commits=true)
 
 ## 💻 My Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agunghabu&layout=compact&hide_border=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agunghabu&layout=compact&hide_border=true&theme=onedark&count_private=true)
 
 ## 🛠️ My Tech Stack
 
@@ -55,18 +53,55 @@ I'm a passionate software engineer with a keen interest in creating awesome appl
 </p>
 
 ## 🚀 My Projects
-
-| Project | Description |
-|---------|-------------|
-| [Project 1](https://github.com/agunghabu/Project-1) | This project is about ... |
-| [Project 2](https://github.com/agunghabu/Project-2) | This project is about ... |
-| [Project 3](https://github.com/agunghabu/Project-3) | This project is about ... |
-
-## 🏆 My Top Repositories
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agunghabu&repo=static-web)](https://github.com/agunghabu/static-web)
-
-## ❤️ My Favorite Repositories
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agunghabu&repo=Flutter-Task)](https://github.com/agunghabu/Flutter-Task)
+<table>
+    <thead>
+        <tr>
+            <th>Project</th>
+            <th>Description</th>
+            <th>Date Aded</th>
+            <th>Due Date</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center"><a href=https://github.com/agunghabu/Project-1>Example Project Name</a></td>
+            <td align="center">This project is about my project that I working on it</td>
+            <td align="center">22 June 2022</td>
+            <td align="center">17 June 2022</td>
+            <td align="center">✅</td>
+        </tr>
+        <tr>
+            <td align="center"><a href=https://github.com/agunghabu/Project-1>Example Project Name</a></td>
+            <td align="center">This project is about my project that I working on it</td>
+            <td align="center">22 June 2022</td>
+            <td align="center">17 June 2022</td>
+            <td align="center">❌</td>
+        </tr>
+        <tr>
+            <td align="center"><a href=https://github.com/agunghabu/Project-1>Example Project Name</a></td>
+            <td align="center">This project is about my project that I working on it</td>
+            <td align="center">22 June 2022</td>
+            <td align="center">17 June 2022</td>
+            <td align="center">❌</td>
+        </tr>
+        <tr>
+            <td align="center"><a href=https://github.com/agunghabu/Project-1>Example Project Name</a></td>
+            <td align="center">This project is about my project that I working on it</td>
+            <td align="center">22 June 2022</td>
+            <td align="center">17 June 2022</td>
+            <td align="center">✅</td>
+        </tr>
+    </tbody>
+</table>
 -->
+## 🏆 My Top Repositories / ❤️ My Favorite Repositories
+<div>
+  <a href=https://github.com/agunghabu/static-web> <img src="https://github-readme-stats.vercel.app/api/pin/?username=agunghabu&repo=static-web&border_color=e4bf7a&theme=onedark" alt="Habu's github stats"/> </a> &nbsp &nbsp &nbsp 
+  <a href=https://github.com/agunghabu/Flutter-Task> <img src="https://github-readme-stats.vercel.app/api/pin/?username=agunghabu&repo=Flutter-Task&border_color=e4bf7a&theme=onedark" alt="Habu's github stats"/> </a>
+</div>
+&nbsp
+<div>
+  <a href=https://github.com/agunghabu/static-web> <img src="https://github-readme-stats.vercel.app/api/pin/?username=agunghabu&repo=static-web&border_color=e4bf7a&theme=onedark" alt="Habu's github stats"/> </a> &nbsp &nbsp &nbsp 
+  <a href=https://github.com/agunghabu/Flutter-Task> <img src="https://github-readme-stats.vercel.app/api/pin/?username=agunghabu&repo=Flutter-Task&border_color=e4bf7a&theme=onedark" alt="Habu's github stats"/> </a>
+</div>
