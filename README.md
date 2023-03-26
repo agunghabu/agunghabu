@@ -13,12 +13,6 @@ Hello
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" height=46/>
 </p>
 
-| Project | Top Repo | Favorite Repo |
-|---------|----------|---------------|
-| Project 1 | [Top Repo 1](https://github.com/YOUR_USERNAME/top-repo-1) | [Favorite Repo 1](https://github.com/YOUR_USERNAME/favorite-repo-1) |
-| Project 2 | [Top Repo 2](https://github.com/YOUR_USERNAME/top-repo-2) | [Favorite Repo 2](https://github.com/YOUR_USERNAME/favorite-repo-2) |
-| Project 3 | [Top Repo 3](https://github.com/YOUR_USERNAME/top-repo-3) | [Favorite Repo 3](https://github.com/YOUR_USERNAME/favorite-repo-3) |
-
 <a href="https://github.com/agunghabu/base_ipa">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agunghabu&repo=static-web&theme=buefy" />
 </a>
@@ -31,9 +25,13 @@ Hello
 </a>
 
 ===============================================================================
+-->
 # Hi, I'm Habuu 👋
 
 I'm a passionate software engineer with a keen interest in creating awesome applications that make people's lives easier. I love to learn and explore new technologies to stay up-to-date with the latest trends in software development.
+
+## Test
+<img src="https://github-readme-streak-stats.herokuapp.com?user=agunghabu&theme=onedark&hide_border=true" alt="mystreak"/>
 
 ## 🔭 My Github Stats
 ![Habuu's github stats](https://github-readme-stats.vercel.app/api?username=agunghabu&show_icons=true&hide_border=true&count_private=true&border_color=e29e1f&theme=onedark&count_private=true&include_all_commits=true)
@@ -104,4 +102,3 @@ I'm a passionate software engineer with a keen interest in creating awesome appl
   <a href=https://github.com/agunghabu/static-web> <img src="https://github-readme-stats.vercel.app/api/pin/?username=agunghabu&repo=static-web&border_color=e4bf7a&theme=onedark" alt="Habu's github stats"/> </a> &nbsp &nbsp &nbsp 
   <a href=https://github.com/agunghabu/Flutter-Task> <img src="https://github-readme-stats.vercel.app/api/pin/?username=agunghabu&repo=Flutter-Task&border_color=e4bf7a&theme=onedark" alt="Habu's github stats"/> </a>
 </div>
--->
